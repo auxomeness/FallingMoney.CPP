@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** version without emojis, ready for a repository:
-
----
-
 # Falling Money (C++ Terminal Game)
 
 A terminal-based game written in C++ where the player controls a basket to catch falling money (`$`) and avoid harmful objects (`.`).
